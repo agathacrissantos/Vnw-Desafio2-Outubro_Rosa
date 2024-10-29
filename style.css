@@ -90,4 +90,7 @@ footer section {
   display: flex;
   justify-content: space-around;
   align-items: center;
+}
+footer p {
+  text-align: center;
 }/*# sourceMappingURL=style.css.map */
